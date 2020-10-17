@@ -12,10 +12,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : Ivan Vasilev
-* Codeship : https://app.codeship.com/projects/ccbb69f0-f278-0138-eccf-366e8bffedc4/status?branch=master
-
-Example of Codeship badge. Please remove the example before you send us the link. 
-[ ![Codeship Status for tschool/javaschoolexam](https://app.codeship.com/projects/a9af8940-d130-0134-89a6-5e8aaaa2a5a2/status?branch=master)](https://app.codeship.com/projects/201451)
+* Codeship : [![Codeship Status for IvanVasilev-hub/javaschoolexam](https://app.codeship.com/projects/ccbb69f0-f278-0138-eccf-366e8bffedc4/status?branch=master)](https://app.codeship.com/projects/414369)
 
 
 ### How to start?  ###
